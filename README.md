@@ -1,2 +1,2 @@
 # pandas
-My Python Pandas repos
+This is where I upload my Jupyter Notebooks for using Pandas.
